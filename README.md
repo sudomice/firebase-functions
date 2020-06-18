@@ -1,6 +1,6 @@
-# humit firebase cloud functions
+# firebase cloud functions
 
-home of cloud functions for humit firebase.
+a simple firebase function to send FCM notifications to users on a new message.
 
 **login** to firebase using-
 
